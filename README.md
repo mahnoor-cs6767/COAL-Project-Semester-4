@@ -2,7 +2,7 @@
 
 📌 **Project Title:** Assembly Language Calculator 
 
-📚 **Course:** Programming Fundamentals  
+📚 **Course:** Computer Organization and Assembly Language 
 
 🎓 **Semester:** 4rth Semester  
 
